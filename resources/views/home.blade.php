@@ -48,8 +48,11 @@
     <section id="banner" class="major">
         <div class="inner">
             <header class="major">
-                <h2><strong>Bem Vindos</strong> ao nosso site oficial.</h2>
+                <h2>Bem Vindos ao nosso site oficial.</h2>
             </header>
+            <div class="content">
+                <p>A servir o basquetebol limiense desde 2011.</p>
+            </div>
         </div>
     </section>
 
@@ -60,7 +63,7 @@
         <section id="one" class="tiles">
             <article>
 									<span class="image">
-										<img src="/app-assets/images/pic01.jpg" alt=""/>
+										<img src="/app-assets/images/bola.jpg" alt=""/>
 									</span>
                 <header class="major">
                     <h3><a href="/historia" class="link">A Nossa História</a></h3>

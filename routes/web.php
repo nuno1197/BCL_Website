@@ -21,9 +21,11 @@ Route::get('/',function() {
 
 });
 
+//Route para a pagina a nossa história
 Route::get('/historia',function(){
 
     return view('historia');
 });
 
-//Route::get('/', [App\Http\Controllers\HomeController::class, 'index']);
+
+

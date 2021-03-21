@@ -12,8 +12,7 @@
                 <h1>A Nossa História.</h1>
             </header>
             <div class="content">
-                <p>Lorem ipsum dolor sit amet nullam consequat<br/>
-                    sed veroeros. tempus adipiscing nulla.</p>
+                <p>Est 2011.</p>
             </div>
         </div>
     </section>
