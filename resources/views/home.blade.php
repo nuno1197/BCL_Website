@@ -24,7 +24,7 @@
     <!-- Header -->
     <header id="header" class="alt">
         <a href="/" class="logo"><strong>Basket</strong> <span>Club Limiense</span></a>
-        <a href="/" class="mt-2 border-none"><img class="w-1/3" src="/app-assets/images/logo200px.png"></a>
+        <a href="/" class="mt-1 border-none"><img class="w-1/3" src="/app-assets/images/logo200px.png"></a>
         <nav>
             <a href="#menu">Menu</a>
         </nav>

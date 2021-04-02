@@ -27,5 +27,12 @@ Route::get('/historia',function(){
     return view('historia');
 });
 
+//Route para a pagina do palmarés
+
+Route::get('/historia/palmares',function(){
+
+    return view('palmares');
+});
+
 
 

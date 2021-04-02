@@ -12,6 +12,8 @@
     <!--Tailwind imports-->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <link rel="stylesheet" href="{{asset ('app-assets/assets/css/main.css')}}"/>
+    @yield('styles')
+    <link rel="icon" href="/app-assets/images/bclimiense.png">
     <noscript>
         <link rel="stylesheet" href="{{asset ('app-assets/assets/css/noscript.css')}}'"/>
     </noscript>
@@ -24,7 +26,7 @@
     <!-- Header -->
     <header id="header" class="alt">
         <a href="/" class="logo"><strong>Basket</strong> <span>Club Limiense</span></a>
-        <a href="/" class="mt-2 border-none"><img class="w-1/3" src="/app-assets/images/logo200px.png"></a>
+        <a href="/" class="border-none"><img class="w-1/3" src="/app-assets/images/logo200px.png"></a>
         <nav>
             <a href="#menu">Menu</a>
         </nav>
