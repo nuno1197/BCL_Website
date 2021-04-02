@@ -34,5 +34,13 @@ Route::get('/historia/palmares',function(){
     return view('palmares');
 });
 
+//Route para a pagina do pavilhoes
+
+Route::get('/pavilhoes',function(){
+
+    return view('pavilhoes');
+});
+
+
 
 

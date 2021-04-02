@@ -12,6 +12,7 @@
     <!--Tailwind imports-->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <link rel="stylesheet" href="{{asset ('app-assets/assets/css/main.css')}}"/>
+    <link rel="icon" href="/app-assets/images/bclimiense.png">
     <noscript>
         <link rel="stylesheet" href="{{asset ('app-assets/assets/css/noscript.css')}}'"/>
     </noscript>
@@ -62,54 +63,54 @@
         <!-- One -->
         <section id="one" class="tiles">
             <article>
-									<span class="image">
-										<img src="/app-assets/images/bola.jpg" alt=""/>
-									</span>
+            <span class="image">
+                <img src="/app-assets/images/bola.jpg" alt=""/>
+            </span>
                 <header class="major">
                     <h3><a href="/historia" class="link">A Nossa História</a></h3>
                     <p>Como foi formado o Basket Club Limiense.</p>
                 </header>
             </article>
             <article>
-									<span class="image">
-										<img src="/app-assets/images/pic02.jpg" alt=""/>
-									</span>
+            <span class="image">
+                <img src="/app-assets/images/pavmunicipal.jpg" alt=""/>
+            </span>
                 <header class="major">
-                    <h3><a href="landing.html" class="link">Tempus</a></h3>
-                    <p>feugiat amet tempus</p>
+                    <h3><a href="/pavilhoes" class="link">Onde estamos?</a></h3>
+                    <p>Pavilhões onde estamos a praticar basquetebol.</p>
                 </header>
             </article>
             <article>
-									<span class="image">
-										<img src="/app-assets/images/pic03.jpg" alt=""/>
-									</span>
+            <span class="image">
+                <img src="/app-assets/images/pic03.jpg" alt=""/>
+            </span>
                 <header class="major">
                     <h3><a href="landing.html" class="link">Magna</a></h3>
                     <p>Lorem etiam nullam</p>
                 </header>
             </article>
             <article>
-									<span class="image">
-										<img src="/app-assets/images/pic04.jpg" alt=""/>
-									</span>
+            <span class="image">
+                <img src="/app-assets/images/pic04.jpg" alt=""/>
+            </span>
                 <header class="major">
                     <h3><a href="landing.html" class="link">Ipsum</a></h3>
                     <p>Nisl sed aliquam</p>
                 </header>
             </article>
             <article>
-									<span class="image">
-										<img src="/app-assets/images/pic05.jpg" alt=""/>
-									</span>
+            <span class="image">
+                <img src="/app-assets/images/pic05.jpg" alt=""/>
+            </span>
                 <header class="major">
                     <h3><a href="landing.html" class="link">Consequat</a></h3>
                     <p>Ipsum dolor sit amet</p>
                 </header>
             </article>
             <article>
-									<span class="image">
-										<img src="/app-assets/images/pic06.jpg" alt=""/>
-									</span>
+                <span class="image">
+                    <img src="/app-assets/images/pic06.jpg" alt=""/>
+                </span>
                 <header class="major">
                     <h3><a href="landing.html" class="link">Etiam</a></h3>
                     <p>Feugiat amet tempus</p>
