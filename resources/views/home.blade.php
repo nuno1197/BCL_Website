@@ -26,24 +26,8 @@
     <header id="header" class="alt">
         <a href="/" class="logo"><strong>Basket</strong> <span>Club Limiense</span></a>
         <a href="/" class="mt-1 border-none"><img class="w-1/3" src="/app-assets/images/logo200px.png"></a>
-        <nav>
-            <a href="#menu">Menu</a>
-        </nav>
     </header>
 
-    <!-- Menu -->
-    <nav id="menu">
-        <ul class="links">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="landing.html">Landing</a></li>
-            <li><a href="generic.html">Generic</a></li>
-            <li><a href="elements.html">Elements</a></li>
-        </ul>
-        <ul class="actions stacked">
-            <li><a href="#" class="button primary fit">Get Started</a></li>
-            <li><a href="#" class="button fit">Log In</a></li>
-        </ul>
-    </nav>
 
     <!-- Banner -->
     <section id="banner" class="major">
@@ -82,127 +66,75 @@
             </article>
             <article>
             <span class="image">
-                <img src="/app-assets/images/pic03.jpg" alt=""/>
+                <img src="/app-assets/images/all.jpg" alt=""/>
             </span>
                 <header class="major">
-                    <h3><a href="landing.html" class="link">Magna</a></h3>
-                    <p>Lorem etiam nullam</p>
+                    <h3><a target="_blank" rel="noopener noreferrer" href="https://www.fpb.pt/equipas/clube_2920/" class="link">Equipas</a></h3>
+                    <p>As nossas equipas.</p>
                 </header>
             </article>
             <article>
             <span class="image">
-                <img src="/app-assets/images/pic04.jpg" alt=""/>
+                <img src="/app-assets/images/cup.jpg" alt=""/>
             </span>
                 <header class="major">
-                    <h3><a href="landing.html" class="link">Ipsum</a></h3>
-                    <p>Nisl sed aliquam</p>
+                    <h3><a target="_blank" rel="noopener noreferrer" href="https://www.fpb.pt/calendario/clube_2920/" class="link">Calendário</a></h3>
+                    <p>Próximos Jogos.</p>
                 </header>
             </article>
             <article>
             <span class="image">
-                <img src="/app-assets/images/pic05.jpg" alt=""/>
+                <img src="/app-assets/images/coach.jpg" alt=""/>
             </span>
                 <header class="major">
-                    <h3><a href="landing.html" class="link">Consequat</a></h3>
-                    <p>Ipsum dolor sit amet</p>
+                    <h3><a target="_blank" rel="noopener noreferrer" href="https://www.fpb.pt/resultados/clube_2920/" class="link">Resultados</a></h3>
+                    <p>Próximos Jogos.</p>
                 </header>
             </article>
             <article>
                 <span class="image">
-                    <img src="/app-assets/images/pic06.jpg" alt=""/>
+                    <img src="/app-assets/images/passoubem.jpg" alt=""/>
                 </span>
                 <header class="major">
-                    <h3><a href="landing.html" class="link">Etiam</a></h3>
-                    <p>Feugiat amet tempus</p>
+                    <h3><a href="#" class="link">Patrocinios</a></h3>
+                    <p>Um Profundo Agradecimento a quem acredita em nós diariamente.</p>
                 </header>
             </article>
         </section>
-
-        <!-- Two -->
-        <section id="two">
-            <div class="inner">
-                <header class="major">
-                    <h2>Massa libero</h2>
-                </header>
-                <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna
-                    sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas
-                    laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat
-                    tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et
-                    feugiat tempus.</p>
-                <ul class="actions">
-                    <li><a href="landing.html" class="button next">Get Started</a></li>
-                </ul>
-            </div>
-        </section>
-
-    </div>
-
     <!-- Contact -->
-    <section id="contact">
+
         <div class="inner">
             <section>
-                <form method="post" action="#">
-                    <div class="fields">
-                        <div class="field half">
-                            <label for="name">Name</label>
-                            <input type="text" name="name" id="name"/>
-                        </div>
-                        <div class="field half">
-                            <label for="email">Email</label>
-                            <input type="text" name="email" id="email"/>
-                        </div>
-                        <div class="field">
-                            <label for="message">Message</label>
-                            <textarea name="message" id="message" rows="6"></textarea>
-                        </div>
-                    </div>
-                    <ul class="actions">
-                        <li><input type="submit" value="Send Message" class="primary"/></li>
-                        <li><input type="reset" value="Clear"/></li>
-                    </ul>
-                </form>
-            </section>
-            <section class="split">
                 <section>
                     <div class="contact-method">
                         <span class="icon solid alt fa-envelope"></span>
                         <h3>Email</h3>
-                        <a href="#">information@untitled.tld</a>
-                    </div>
-                </section>
-                <section>
-                    <div class="contact-method">
-                        <span class="icon solid alt fa-phone"></span>
-                        <h3>Phone</h3>
-                        <span>(000) 000-0000 x12387</span>
+                        <a href="mailto:basketclublimiense@gmail.com ">basketclublimiense@gmail.com </a>
                     </div>
                 </section>
                 <section>
                     <div class="contact-method">
                         <span class="icon solid alt fa-home"></span>
-                        <h3>Address</h3>
-                        <span>1234 Somewhere Road #5432<br/>
-										Nashville, TN 00000<br/>
-										United States of America</span>
+                        <h3>Morada</h3>
+                        <span>Apartado 13, 4990-909,<br/>
+										Ponte de Lima,<br/>
+										Viana do Castelo</span>
                     </div>
                 </section>
             </section>
         </div>
-    </section>
 
     <!-- Footer -->
     <footer id="footer">
         <div class="inner">
             <ul class="icons">
-                <li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
-                <li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
-                <li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
-                <li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
-                <li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+                <li><a href="https://www.facebook.com/basketclublimiense" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+                <li><a href="https://www.instagram.com/limiense/" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
             </ul>
             <ul class="copyright">
-                <li>&copy; Untitled</li>
-                <li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+                <li>&copy; Basket Club Limiense 2021</li>
+                <li>Template do Website retirado de: <a href="https://html5up.net">HTML5 UP</a></li>
+                <li>Site desenvolvido por:<a href="https://github.com/nuno1197" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
             </ul>
         </div>
     </footer>
