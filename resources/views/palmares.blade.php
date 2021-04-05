@@ -65,7 +65,7 @@
             </table>
 
             <header class="major">
-                <h5 class="ml-7 mt-7" style="color: white;">CAMPEONATOS REGIONAIS VIANA- BRAGA E VIANA-VILA REAL</h5>
+                <h5 class="ml-7 mt-16" style="color: white;">CAMPEONATOS REGIONAIS VIANA- BRAGA E VIANA-VILA REAL</h5>
             </header>
             <table class="container">
                 <thead>
@@ -93,7 +93,7 @@
             </table>
 
             <header class="major">
-                <h5 class="ml-7 mt-7" style="color: white;">TAÇA DO MINHO</h5>
+                <h5 class="ml-7 mt-16" style="color: white;">TAÇA DO MINHO</h5>
             </header>
             <table class="container">
                 <thead>
@@ -116,7 +116,7 @@
 
 
             <header class="major">
-                <h5 class="ml-7 mt-7" style="color: white;">TORNEIO COMPLEMENTAR ZONA NORTE– TAÇA NACIONAL </h5>
+                <h5 class="ml-7 mt-16 " style="color: white;">TORNEIO COMPLEMENTAR ZONA NORTE– TAÇA NACIONAL </h5>
             </header>
             <table class="container">
                 <thead>
@@ -134,7 +134,7 @@
             </table>
 
             <header class="major">
-                <h5 class="ml-7 mt-7" style="color: white;">FASE FINAL DA TAÇA NACIONAL - ALBUFEIRA </h5>
+                <h5 class="ml-7 mt-16" style="color: white;">FASE FINAL DA TAÇA NACIONAL - ALBUFEIRA </h5>
             </header>
             <table class="container">
                 <thead>
@@ -152,8 +152,8 @@
             </table>
 
             <header class="major">
-                <h3 class="ml-7 mt-7" style="color: white;">PARTICIPAÇÕES HONROSAS </h3>
-                <h5 class="ml-7 mt-7" style="color: white;">FASE FINAL DO CAMPEONATO NACIONAL – FINAL SIX  - BARREIRO, SETÚBAL </h5>
+                <h3 class="ml-7 mt-16" style="color: white;">PARTICIPAÇÕES HONROSAS </h3>
+                <h5 class="ml-7 mt-16" style="color: white;">FASE FINAL DO CAMPEONATO NACIONAL – FINAL SIX  - BARREIRO, SETÚBAL </h5>
             </header>
             <table class="container">
                 <thead>
@@ -170,7 +170,7 @@
                 </tbody>
             </table>
             <header class="major">
-                <h5 class="ml-7 mt-7" style="color: white;">PARTICIPAÇÃO EM CAMPEONATOS E TAÇAS NACIONAIS 1.A FASE ZONA NORTE </h5>
+                <h5 class="ml-7 mt-16" style="color: white;">PARTICIPAÇÃO EM CAMPEONATOS E TAÇAS NACIONAIS 1.A FASE ZONA NORTE </h5>
             </header>
             <table class="container">
                 <thead>
@@ -207,7 +207,7 @@
                 </tbody>
             </table>
             <header class="major">
-                <h5 class="ml-7 mt-7" style="color: white;">PARTICIPAÇÃO EM CAMPEONATOS NACIONAIS 2.A FASE ZONA NORTE </h5>
+                <h5 class="ml-7 mt-16" style="color: white;">PARTICIPAÇÃO EM CAMPEONATOS NACIONAIS 2.A FASE ZONA NORTE </h5>
             </header>
             <table class="container">
                 <thead>
@@ -232,7 +232,7 @@
                 </tbody>
             </table>
             <header class="major">
-                <h5 class="ml-7 mt-7" style="color: white;">PARTICIPAÇÃO EM CAMPEONATOS NACIONAIS</h5>
+                <h5 class="ml-7 mt-16" style="color: white;">PARTICIPAÇÃO EM CAMPEONATOS NACIONAIS</h5>
             </header>
             <table class="container">
                 <thead>

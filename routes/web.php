@@ -36,11 +36,15 @@ Route::get('/historia/palmares',function(){
 
 //Route para a pagina do pavilhoes
 
-Route::get('/pavilhoes',function(){
+Route::get('/pavilhoes ',function(){
 
     return view('pavilhoes');
 });
 
+//Route para a pagina dos patrocinios
+Route::get('/patrocinios ',function(){
 
+    return view('patrocinios');
+});
 
 

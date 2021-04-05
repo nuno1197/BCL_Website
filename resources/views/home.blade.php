@@ -33,7 +33,7 @@
     <section id="banner" class="major">
         <div class="inner">
             <header class="major">
-                <h2>Bem Vindos ao nosso site oficial.</h2>
+                <h2>BEM-VINDOS.</h2>
             </header>
             <div class="content">
                 <p>A servir o basquetebol limiense desde 2011.</p>
@@ -96,7 +96,7 @@
                     <img src="/app-assets/images/passoubem.jpg" alt=""/>
                 </span>
                 <header class="major">
-                    <h3><a href="#" class="link">Patrocinios</a></h3>
+                    <h3><a href="/patrocinios" class="link">Patrocinios</a></h3>
                     <p>Um Profundo Agradecimento a quem acredita em nós diariamente.</p>
                 </header>
             </article>
