@@ -13,8 +13,8 @@
                     <h1 style="color: white;">Palmarés</h1>
                 </header>
                 <span class="image main"><img src="/app-assets/images/taça.jpg" alt="" /></span>
-                <p>Formamos com o intuito de tornar os nossos jovens atletas as mulheres e os homens de valor de amanhã, o objetivo é sempre formar a pessoa e seguidamente o jogador/a.
-                No entanto, é bom ver o trabalho diário a dar resultado ano após ano, por isso agradecemos a todos/as os que diariamente lutam por incutir estes valores aos nossos jovens jogadores.</p>
+                <p>Formamos com o intuito de tornar os nossos jovens atletas, as mulheres e os homens de valor de amanhã, privilegiando os valores morais,as competências sociais, assim como os habitos saudáveis.
+                No entanto, é bom ver o trabalho diário a dar resultados ano após ano, por isso agradecemos a todos/as os que diariamente lutam por incutir estes valores aos nossos jovens jogadores.</p>
             </div>
 
             <header class="major">
