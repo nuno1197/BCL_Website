@@ -47,4 +47,11 @@ Route::get('/patrocinios ',function(){
     return view('patrocinios');
 });
 
+//Route para a pagina dos comunicados
+Route::get('/comunicados ',function(){
+
+    return view('comunicados');
+});
+
+
 
