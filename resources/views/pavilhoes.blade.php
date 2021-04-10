@@ -73,6 +73,22 @@
                     <li><a target="_blank" rel="noopener noreferrer" href="https://www.google.com/maps/dir//Centro+Educativo+de+Trovela,+N201+734,+4990-620/@41.7245646,-8.5770452,13z/data=!4m9!4m8!1m0!1m5!1m1!1s0xd25a8e3a05f1337:0xef1f8d2aca20cb1e!2m2!1d-8.5420258!2d41.7245059!3e0?hl=pt-PT" class="button next">Direções</a></li>
                 </ul>
 
+                <header class="major">
+                    <h4 style="color: white;">PAVILHÃO CENTRO EDUCATIVO DE ARCOZELO</h4>
+                </header>
+                <span class="image main"><img src="/app-assets/images/arcozelo.jpg" alt="" /></span>
+                <ul class="actions">
+                    <li><a target="_blank" rel="noopener noreferrer" href="https://www.google.com/maps/dir/41.7672732,-8.5830915/centro+educativo+de+arcozelo+ponte+de+lima/@41.7756389,-8.6050893,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0xd25a5cfdea3ea9f:0x6350c9d7985b206d!2m2!1d-8.5834884!2d41.7884867" class="button next">Direções</a></li>
+                </ul>
+
+                <header class="major">
+                    <h4 style="color: white;">PAVILHÃO CENTRO EDUCATIVO DE REFOIOS DO LIMA</h4>
+                </header>
+                <span class="image main"><img src="/app-assets/images/refoios.jpg" alt="" /></span>
+                <ul class="actions">
+                    <li><a target="_blank" rel="noopener noreferrer" href="https://www.google.com/maps/dir/41.7672732,-8.5830915/Centro+Educativo+de+Refoios+do+Lima,+Ref%C3%B3ios+do+Lima/@41.7803782,-8.588385,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0xd25a65b748ae837:0x9106ff863aa4ff0a!2m2!1d-8.5434271!2d41.7922309" class="button next">Direções</a></li>
+                </ul>
+
             </div>
 
         </section>
