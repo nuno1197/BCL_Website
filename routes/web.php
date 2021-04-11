@@ -17,7 +17,10 @@ use app\Http\Controllers\HomeController;
 //route home (index do site)
 Route::get('/',function() {
 
-    return view('home');
+    //objeto agent
+    $agent= new Jenssegers\Agent\Agent();
+
+    return view('home', compact('agent'));
 
 });
 

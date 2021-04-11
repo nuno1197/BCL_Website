@@ -24,11 +24,19 @@
 <div id="wrapper">
 
     <!-- Header -->
-    <header id="header" class="alt">
+    @if($agent->isMobile())
+        <header id="header" class="site-header alt">
+            <a href="/" class="logo"><strong>Basket</strong> <span>Club Limiense</span></a>
+            <nav>
+                <a href="#menu">Menu</a>
+            </nav>
+        </header>
+    @endif
+    <header id="header" class="site-header alt">
         <a href="/" class="logo"><strong>Basket</strong> <span>Club Limiense</span></a>
-        <a href="/" class="border-none"><img class="w-1/3" src="/app-assets/images/logo200px.png"></a>
+        <a href="/" class="site-title mt-1 border-none "><img class="w-1/3" src="/app-assets/images/logo200px.png"></a>
         <nav>
-            <a href="{{ url()->previous() }}" class="prev mt-1 border-none ">Voltar Atrás</a>
+            <a href="#menu">Menu</a>
         </nav>
     </header>
 

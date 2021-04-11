@@ -115,6 +115,9 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/sebastian/complexity" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-php72" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/jaybizzle/crawler-detect" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/jenssegers/agent" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/mobiledetect/mobiledetectlib" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
